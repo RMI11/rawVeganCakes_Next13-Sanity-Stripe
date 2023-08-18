@@ -1,0 +1,48 @@
+{
+  "name": "cake_me_happy_next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@babel/plugin-syntax-top-level-await": "^7.14.5",
+    "@emailjs/browser": "^3.11.0",
+    "@emotion/react": "^11.11.1",
+    "@headlessui/react": "^1.7.15",
+    "@mui/material": "^5.13.5",
+    "@nextui-org/react": "^1.0.0-beta.13",
+    "@sanity/image-url": "^1.0.2",
+    "@sanity/vision": "^3.12.0",
+    "@stripe/stripe-js": "^1.54.1",
+    "@tawk.to/tawk-messenger-react": "^2.0.2",
+    "@vercel/analytics": "^1.0.2",
+    "formik": "^2.4.2",
+    "formik-mui": "^5.0.0-alpha.0",
+    "framer-motion": "^10.12.16",
+    "lucide-react": "^0.241.0",
+    "micro": "^10.0.1",
+    "next": "^13.4.4",
+    "next-sanity": "^4.3.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.9.0",
+    "react-iframe": "^1.8.5",
+    "react-responsive-carousel": "^3.2.23",
+    "react-responsive-modal": "^6.4.2",
+    "sanity": "^3.12.0",
+    "sanity-plugin-vercel-deploy": "^3.3.4",
+    "stripe": "^12.10.0",
+    "styled-components": "^5.3.11",
+    "use-shopping-cart": "^3.1.8"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "sass": "^1.63.0",
+    "tailwindcss": "^3.3.2"
+  }
+}

@@ -1,0 +1,37 @@
+// .mainNav-wrapper {
+//     display: flex;
+//     justify-content: space-between;
+//     align-items: center;
+// }
+
+// .mainNav-ul {
+//     display: flex;
+//     gap: 1.5rem;
+//     justify-content: end;
+//     margin-right: 4rem;
+//     font-size: small;
+//     width: 50vw;
+// }
+
+.mainNav-link {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.flex {
+  display: flex;
+}
+
+#dropdown-button {
+  background: none !important;
+  padding: 0 !important;
+  margin: 0;
+  line-height: 0 !important;
+  height: auto !important;
+  font-weight: bold !important;
+  color: #AC8067;
+}
+
+#drop-links {
+  color: #936144;
+}

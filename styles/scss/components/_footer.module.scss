@@ -1,0 +1,29 @@
+footer {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-top: 2px green solid;
+  width: 100vw;
+  padding: 3rem 0;
+}
+
+// .footer-wrapper {
+//     display: grid;
+//     grid-template-columns: 1fr 1fr 1fr 1fr;
+//     grid-template-rows: 1fr;
+//     gap: 2rem;
+//     width: 80%;
+// }
+
+.footer-contact {
+  display: flex;
+  flex-direction: column;
+  margin: 0.5rem 0;
+}
+
+.footer_rights {
+  position: absolute;
+  bottom: 0.5rem;
+}
